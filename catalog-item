@@ -61,21 +61,22 @@
 		</div>
 	</section>
 </main>
+
 <footer class="main-footer">
 	<div class="footer-contacts">
-		Барбершоп "Бородинский"<br>
-		Адрес:г.Санкт-Петербург, ул.Б.Конюшеннаяб д.19/8<br>
-		<a href="#">Как нас найти?</a><br>
+		Барбершоп "Бородинский"
+		Адрес:г.Санкт-Петербург, ул.Б.Конюшеннаяб д.19/8
+		<a href="#">Как нас найти?</a>
 		Телефон:+7(495)666-02-66
 	</div>
 	<div class="footer-social">
-		<p>Давайте дружить!</p>
+		Давайте дружить!
 		<a class="social-btn social-btn-vk" href="#">Вконтакте</a>
 		<a class="social-btn social-btn-fb" href="#">Facebook</a>
 		<a class="social-btn social-btn-inst" href="#">Instagram</a>
 	</div>
 	<div class="footer-copyright">
-		<p>Разработано:</p>
+		Разработано:
 		<a class="btn" href="https://htmlacademy.ru">HTML Academy</a>
 	</div>
 </footer>
