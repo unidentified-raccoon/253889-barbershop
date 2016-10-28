@@ -36,69 +36,84 @@
 	</nav>
 	<section class="filters">
 		<h2 class="brand">Производители:</h2>
-		<input type="checkbox" name="brand1" id="boc" value="boc">
-    	<label for="boc">Baxter of California</label><br>
-  		<input type="checkbox" name="brand2" id="mrn" value="mrn">
-    	<label for="mrn">Mr Natty</label><br>
-  		<input type="checkbox" name="brand3" id="suav" value="suav">
-    	<label for="suav">Suavecito</label><br>
-    	<input type="checkbox" name="brand4" id="mg" value="mg">
-    	<label for="mg">Malin+Goetz</label><br>
-    	<input type="checkbox" name="brand5" id="mur" value="mur">
-    	<label for="mur">Murray's</label><br>
-    	<input type="checkbox" name="brand6" id="ac" value="ac">
-    	<label for="ac">American Crew</label><br>
+    	<label>
+    		<input type="checkbox">Baxter of California
+    	</label>
+    	<label>
+    		<input type="checkbox">Mr Natty
+    	</label>
+    	<label>
+    		<input type="checkbox">Suavecito
+    	</label>
+    	<label>
+    		<input type="checkbox">Malin+Goetz
+    	</label>
+    	<label>
+    		<input type="checkbox">Murray's
+    	</label>
+    	<label>
+    		<input type="checkbox">American Crew
+    	</label>
     	<h2 class="item-group">Группы товаров:</h2>
-		<input type="checkbox" name="item-group1" id="shave" value="shave">
-    	<label for="shave">Бритвенные принадлежности</label><br>
-    	<input type="checkbox" name="item-group2" id="care" value="care">
-    	<label for="care">Средства для ухода</label><br>
-    	<input type="checkbox" name="item-group3" id="accessory" value="accessory">
-    	<label for="accessory">Аксессуары</label><br>
-    	<input class="filters-submit" type="submit" value="Показать">
+    	<label>
+    		<input type="checkbox">Бритвенные принадлежности
+    	</label>
+    	<label>
+    		<input type="checkbox">Средства для ухода
+    	</label>
+    	<label>
+    		<input type="checkbox">Аксессуары
+    	</label>
+    	<input type="submit" value="Показать">	
 	</section>
 	<section class="items-list">
 		<article class="item">
 			<img src="http://placehold.it/220x165" alt="Набор для путешествий Baxter of California" height="165" width="220">
 			<p>Набор для путешествий "BAXTER OF CALIFORNIA"</p>
 			<div class="item-purchase">
-			<div class="price">2 900руб.</div>
-			<a class="btn" href="#">Купить</a>
+				<div class="price">2 900руб.</div>
+				<a class="btn" href="#">Купить</a>
+			</div>
 		</article>
 		<article class="item">
 			<img src="http://placehold.it/220x165" alt="Увлажняющий кондиционер Baxter of California" height="165" width="220">
 			<p>Увлажняющий кондиционер "BAXTER OF CALIFORNIA"</p>
 			<div class="item-purchase">
-			<div class="price">750руб.</div>
-			<a class="btn" href="#">Купить</a>
+				<div class="price">750руб.</div>
+				<a class="btn" href="#">Купить</a>
+			</div>
 		</article>
 		<article class="item">
 			<img src="http://placehold.it/220x165" alt="Гель для волос SUAVECITO" height="165" width="220">
 			<p>Гель для волос "SUAVECITO"</p>
 			<div class="item-purchase">
-			<div class="price">290руб.</div>
-			<a class="btn" href="#">Купить</a>
+				<div class="price">290руб.</div>
+				<a class="btn" href="#">Купить</a>
+			</div>
 		</article>
 		<article class="item">
 			<img src="http://placehold.it/220x165" alt="Глина для укладки волос AMERICAN CREW" height="165" width="220">
 			<p>Глина для укладки волос "AMERICAN CREW"</p>
 			<div class="item-purchase">
-			<div class="price">500руб.</div>
-			<a class="btn" href="#">Купить</a>
+				<div class="price">500руб.</div>
+				<a class="btn" href="#">Купить</a>
+			</div>
 		</article>
 		<article class="item">
 			<img src="http://placehold.it/220x165" alt="Гель для волосAMERICAN CREW" height="165" width="220">
 			<p>Гель для волос "AMERICAN CREW"</p>
 			<div class="item-purchase">
-			<div class="price">300руб.</div>
-			<a class="btn" href="#">Купить</a>
+				<div class="price">300руб.</div>
+				<a class="btn" href="#">Купить</a>
+			</div>
 		</article>
 		<article class="item">
 			<img src="http://placehold.it/220x165" alt="Набор для бритья BAXTER OF CALIFORNIA" height="165" width="220">
 			<p>Набор для бритья "BAXTER OF CALIFORNIA"</p>
 			<div class="item-purchase">
-			<div class="price">3 900руб.</div>
-			<a class="btn" href="#">Купить</a>
+				<div class="price">3 900руб.</div>
+				<a class="btn" href="#">Купить</a>
+			</div>
 		</article>
 		<div class="pages">
 			<ul>
@@ -113,19 +128,19 @@
 
 <footer class="main-footer">
 	<div class="footer-contacts">
-		Барбершоп "Бородинский"<br>
-		Адрес:г.Санкт-Петербург, ул.Б.Конюшеннаяб д.19/8<br>
-		<a href="#">Как нас найти?</a><br>
+		Барбершоп "Бородинский"
+		Адрес:г.Санкт-Петербург, ул.Б.Конюшеннаяб д.19/8
+		<a href="#">Как нас найти?</a>
 		Телефон:+7(495)666-02-66
 	</div>
 	<div class="footer-social">
-		<p>Давайте дружить!</p>
+		Давайте дружить!
 		<a class="social-btn social-btn-vk" href="#">Вконтакте</a>
 		<a class="social-btn social-btn-fb" href="#">Facebook</a>
 		<a class="social-btn social-btn-inst" href="#">Instagram</a>
 	</div>
 	<div class="footer-copyright">
-		<p>Разработано:</p>
+		Разработано:
 		<a class="btn" href="https://htmlacademy.ru">HTML Academy</a>
 	</div>
 </footer>
